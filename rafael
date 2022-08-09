@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Dasmoto</title>
+        <link href="C:\Users\USER\Desktop\DevProject\Dasmoto\css\index2.css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <div class=" arts">
+                <h1>Dasmoto's Arts & Crafts</h1>
+            </div>
+        </header>
+        <div>
+            <h2 id="peines">Brushes</h2>
+            <img class="brochas" src="https://content.codecademy.com/courses/freelance-1/unit-2/hacksaw.jpeg?_gl=1*10fva1i*_ga*OTY1MzU3NTUwNC4xNjU4MDE0MDE3*_ga_3LRZM6TM9L*MTY1OTg4OTAyOC4zMS4xLjE2NTk4ODkwNjcuMjE.">
+            <h3 class=" hack">Hacksaw Brushes</h3>
+        </div>
+        <div>
+            <p>Made of the highest quality oak, Hacksaw brushes are known for their weight and ability to hold paint in large amounts. Available in different sizes. <b>Starting at $3.00 / brush.</b></p>
+        </div>
+        <div>
+            <h2 class="marcos">Frames</h2>
+            <img class="libros" src="https://content.codecademy.com/courses/freelance-1/unit-2/frames.jpeg?_gl=1*qq5jop*_ga*OTY1MzU3NTUwNC4xNjU4MDE0MDE3*_ga_3LRZM6TM9L*MTY1OTg4OTAyOC4zMS4xLjE2NTk4ODkwNjcuMjE.">
+            <h3 class="hack">Art Frames (assorted)</h3>
+        </div>
+        <div>
+            <p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs. <b>Starting at $2.00 / frame.</b></p>
+        </div>
+        <div>
+            <h2 class="dibujo">Paint</h2>
+            <img class="lapices" src="https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg?_gl=1*17vvs4p*_ga*OTY1MzU3NTUwNC4xNjU4MDE0MDE3*_ga_3LRZM6TM9L*MTY1OTg4OTAyOC4zMS4xLjE2NTk4ODkwNjcuMjE.">
+            <h3 class="hack">Clean Finnish Paint</h3>
+        </div>
+        <div>
+            <p>Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork. <b>Starting at $5.00 / tube.</b></p>
+        </div>
+        <footer>
+        </footer>
+    </body>
+
+</html>
